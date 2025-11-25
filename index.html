@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Channel Explorer</title>
+    <style>
+        :root {
+            --primary: #6366f1;
+            --primary-hover: #4f46e5;
+            --bg: #f3f4f6;
+            --text: #1f2937;
+            --card-bg: #ffffff;
+            --card-border: #e5e7eb;
+            --input-bg: #ffffff;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            --accent-gradient: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+        }
+
+        [data-theme="dark"] {
+            --bg: #0f172a;
+            --text: #f8fafc;
+            --card-bg: #1e293b;
+            --card-border: #334155;
+            --input-bg: #1e293b;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+        }
+
+        * {
+            box-sizing: border-box;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+        }
+
+        /* Navbar */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.5rem 2rem;
+            background: var(--card-bg);
+            box-shadow: var(--shadow);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* Toggle Switch */
+        .theme-toggle {
+            cursor: pointer;
+            padding: 0.5rem;
+            border-radius: 50%;
+            background: transparent;
+            border: 1px solid var(--card-border);
+            color: var(--text);
+        }
+
+        /* Hero / Search Section */
+        .hero {
+            text-align: center;
+            padding: 4rem 1rem;
+            background: radial-gradient(circle at top, var(--primary) 0%, transparent 70%);
+            opacity: 0.9;
+        }
+
+        .hero h1 {
+            margin-bottom: 2rem;
+            font-size: 2.5rem;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-container {
+            position: relative;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        input#searchBox {
+            width: 100%;
+            padding: 1rem 1.5rem;
+            font-size: 1.1rem;
+            border-radius: 50px;
+            border: 2px solid transparent;
+            background: var(--input-bg);
+            color: var(--text);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+            outline: none;
+        }
+
+        input#searchBox:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.2);
+        }
+
+        /* Suggestions Dropdown */
+        .suggestions {
+            position: absolute;
+            top: 110%;
+            left: 0;
+            right: 0;
+            background: var(--card-bg);
+            border-radius: 15px;
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            z-index: 50;
+            max-height: 0;
+            transition: max-height 0.2s ease-out;
+        }
+
+        .suggestions.active {
+            max-height: 300px;
+            overflow-y: auto;
+            border: 1px solid var(--card-border);
+        }
+
+        .suggestion-item {
+            padding: 0.75rem 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .suggestion-item:hover {
+            background-color: rgba(99, 102, 241, 0.1);
+        }
+
+        .suggestion-meta {
+            font-size: 0.8rem;
+            opacity: 0.7;
+        }
+
+        /* Browse / Filter Section */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        .browse-controls {
+            background: var(--card-bg);
+            padding: 1.5rem;
+            border-radius: 1rem;
+            box-shadow: var(--shadow);
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 0.5rem;
+            align-items: center;
+        }
+
+        select {
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            border: 1px solid var(--card-border);
+            background: var(--bg);
+            color: var(--text);
+            cursor: pointer;
+        }
+
+        .btn-reset {
+            padding: 0.5rem 1rem;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .btn-reset:hover {
+            background: var(--primary-hover);
+        }
+
+        /* Results Grid */
+        .results-header {
+            margin-bottom: 1rem;
+            font-weight: 600;
+            opacity: 0.8;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 1rem;
+            padding: 1.5rem;
+            position: relative;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            transition: transform 0.2s;
+            
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+
+        .card-genre {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background: var(--primary);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            font-size: 0.75rem;
+            border-bottom-left-radius: 0.5rem;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .card-lang {
+            font-size: 0.9rem;
+            opacity: 0.7;
+            margin-bottom: 1rem;
+            display: inline-block;
+            background: rgba(100, 100, 100, 0.1);
+            padding: 2px 8px;
+            border-radius: 4px;
+        }
+
+        .card-no {
+            font-size: 2rem;
+            font-weight: 800;
+            color: #ff3366;
+            opacity: 0.95;
+            position: absolute;
+            bottom: -5px;
+            right: 10px;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 3rem;
+            opacity: 0.6;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">JioChannelFinder</div>
+        <button class="theme-toggle" id="themeBtn" aria-label="Toggle Dark Mode">
+            🌙
+        </button>
+    </nav>
+
+    <div class="hero">
+        <h1>Find Your Station</h1>
+        <div class="search-container">
+            <input type="text" id="searchBox" placeholder="Search channels (e.g. 'Sony', 'News')..." autocomplete="off">
+            <div class="suggestions" id="suggestionsBox"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="browse-controls">
+            <h3>Browse & Filter</h3>
+            <div class="filter-group">
+                <select id="langFilter">
+                    <option value="all">All Languages</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <select id="genreFilter">
+                    <option value="all">All Genres</option>
+                </select>
+            </div>
+            <button class="btn-reset" id="resetBtn">Reset View</button>
+        </div>
+
+        <div class="results-header" id="resultsCount">Loading data...</div>
+        <div class="grid" id="resultsGrid">
+        </div>
+    </div>
+
+    <script>
+        // --- 1. State & Config ---
+        let rawData = {};
+        let flatData = [];
+        const themeBtn = document.getElementById('themeBtn');
+        const searchBox = document.getElementById('searchBox');
+        const suggestionsBox = document.getElementById('suggestionsBox');
+        const resultsGrid = document.getElementById('resultsGrid');
+        const langFilter = document.getElementById('langFilter');
+        const genreFilter = document.getElementById('genreFilter');
+        const resultsCount = document.getElementById('resultsCount');
+        const resetBtn = document.getElementById('resetBtn');
+
+        // --- 2. Data Fetching & Flattening ---
+        async function loadData() {
+            try {
+                const response = await fetch('jio.json');
+                if (!response.ok) throw new Error("Failed to load jio.json");
+                rawData = await response.json();
+                processData();
+            } catch (error) {
+                console.error(error);
+                resultsGrid.innerHTML = `
+                <div class="empty-state">
+                    <h3>Could not load jio.json</h3>
+                    <p>Ensure the file exists and you are running a local server (e.g., VS Code Live Server).</p>
+                </div>`;
+                resultsCount.textContent = "Error";
+            }
+        }
+
+        function processData() {
+            flatData = [];
+            const languages = new Set();
+            const genres = new Set();
+
+            // Flatten the nested JSON structure: Language -> Genre -> Channels
+            for (const [lang, genresObj] of Object.entries(rawData)) {
+                languages.add(lang);
+                for (const [genreName, channelsArr] of Object.entries(genresObj)) {
+                    genres.add(genreName);
+                    if (Array.isArray(channelsArr)) {
+                        channelsArr.forEach(ch => {
+                            flatData.push({
+                                name: ch.name,
+                                no: ch.no,
+                                lang: lang,
+                                genre: genreName
+                            });
+                        });
+                    }
+                }
+            }
+
+            populateFilters(languages, genres);
+            renderGrid(flatData); // Initial render of all channels
+        }
+
+        function populateFilters(langs, genres) {
+            langs.forEach(l => {
+                const opt = document.createElement('option');
+                opt.value = l;
+                opt.textContent = l;
+                langFilter.appendChild(opt);
+            });
+            genres.forEach(g => {
+                const opt = document.createElement('option');
+                opt.value = g;
+                opt.textContent = g;
+                genreFilter.appendChild(opt);
+            });
+        }
+
+        // --- 3. Sanitization & Helpers ---
+        function sanitize(str) {
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+
+        function getGrammar(count) {
+            return count === 1 ? "1 Channel found" : `${count} Channels found`;
+        }
+
+        // --- 4. Search Logic (Suggestions) ---
+        searchBox.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+
+            if (query.length < 1) {
+                suggestionsBox.classList.remove('active');
+                renderGrid(flatData); // Show all if search cleared
+                return;
+            }
+
+            // Filter for suggestions
+            const matches = flatData.filter(item =>
+                item.name.toLowerCase().includes(query)
+            ).slice(0, 5); // Limit to 5 suggestions
+
+            // Render suggestions
+            if (matches.length > 0) {
+                suggestionsBox.innerHTML = matches.map(item => `
+                <div class="suggestion-item" onclick="selectSuggestion('${sanitize(item.name)}')">
+                    <span>${sanitize(item.name)}</span>
+                    <span class="suggestion-meta">${item.lang} • ${item.genre}</span>
+                </div>
+            `).join('');
+                suggestionsBox.classList.add('active');
+            } else {
+                suggestionsBox.classList.remove('active');
+            }
+
+            // Real-time grid update for search
+            const fullMatches = flatData.filter(item => item.name.toLowerCase().includes(query));
+            renderGrid(fullMatches, true); // Pass true to indicate searching mode
+        });
+
+        window.selectSuggestion = (name) => {
+            searchBox.value = name;
+            suggestionsBox.classList.remove('active');
+            const exactMatch = flatData.filter(item => item.name === name);
+            renderGrid(exactMatch, true);
+        };
+
+        // Hide suggestions on click outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.search-container')) {
+                suggestionsBox.classList.remove('active');
+            }
+        });
+
+        // --- 5. Browse/Filter Logic (Combo) ---
+        function applyFilters() {
+            // When filtering, we clear the search box to avoid confusion
+            searchBox.value = '';
+
+            const selectedLang = langFilter.value;
+            const selectedGenre = genreFilter.value;
+
+            const filtered = flatData.filter(item => {
+                const matchLang = selectedLang === 'all' || item.lang === selectedLang;
+                const matchGenre = selectedGenre === 'all' || item.genre === selectedGenre;
+                return matchLang && matchGenre;
+            });
+
+            renderGrid(filtered);
+        }
+
+        langFilter.addEventListener('change', applyFilters);
+        genreFilter.addEventListener('change', applyFilters);
+
+        resetBtn.addEventListener('click', () => {
+            langFilter.value = 'all';
+            genreFilter.value = 'all';
+            searchBox.value = '';
+            renderGrid(flatData);
+        });
+
+        // --- 6. Rendering ---
+        function renderGrid(data, isSearch = false) {
+            // Update count text
+            resultsCount.textContent = getGrammar(data.length);
+
+            if (data.length === 0) {
+                resultsGrid.innerHTML = `<div class="empty-state">No channels found matching criteria.</div>`;
+                return;
+            }
+
+            // Sanitize and Build HTML
+            resultsGrid.innerHTML = data.map(item => `
+            <div class="card">
+                <div class="card-genre">${sanitize(item.genre)}</div>
+                <div class="card-title">${sanitize(item.name)}</div>
+                <div class="card-lang">${sanitize(item.lang)}</div>
+                <div class="card-no">${item.no}</div>
+            </div>
+        `).join('');
+        }
+
+        // --- 7. Theme Toggle ---
+        themeBtn.addEventListener('click', () => {
+            const current = document.body.getAttribute('data-theme');
+            if (current === 'dark') {
+                document.body.removeAttribute('data-theme');
+                themeBtn.textContent = '🌙';
+                localStorage.setItem('theme', 'light');
+            } else {
+                document.body.setAttribute('data-theme', 'dark');
+                themeBtn.textContent = '☀️';
+                localStorage.setItem('theme', 'dark');
+            }
+        });
+
+        // Load Saved Theme
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.setAttribute('data-theme', 'dark');
+            themeBtn.textContent = '☀️';
+        }
+
+        // --- Init ---
+        loadData();
+
+    </script>
+</body>
+
+</html>

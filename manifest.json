@@ -1,6 +1,6 @@
 {
-  "name": "Jio Channel Map",
-  "short_name": "Channel Map",
+  "name": "1 Jio Channel Map",
+  "short_name": "1-Channel Map",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#020617",

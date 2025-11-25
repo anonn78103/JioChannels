@@ -4,7 +4,8 @@ const ASSETS_TO_CACHE = [
   "/",
   "/index.html",
   "/jio.json",
-  "https://img.icons8.com/fluency/512/tv.png"
+  "/192.png",
+  "/512.png"
 ];
 
 self.addEventListener("install", event => {

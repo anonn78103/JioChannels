@@ -1,0 +1,3420 @@
+{
+  "Hindi": {
+    "Entertainment & Movies": [
+      {
+        "name": "&Pictures",
+        "no": 332
+      },
+      {
+        "name": "&Pictures HD",
+        "no": 127
+      },
+      {
+        "name": "&TV HD",
+        "no": 137
+      },
+      {
+        "name": "&xplorHD",
+        "no": 104
+      },
+      {
+        "name": "B4U Kadak",
+        "no": 1352
+      },
+      {
+        "name": "B4U Movies",
+        "no": 352
+      },
+      {
+        "name": "Big Magic",
+        "no": 176
+      },
+      {
+        "name": "Bollywood Hungama",
+        "no": 366
+      },
+      {
+        "name": "Colors Cineplex Bollywood",
+        "no": 345
+      },
+      {
+        "name": "Colors Cineplex HD",
+        "no": 344
+      },
+      {
+        "name": "Colors Cineplex Superhits",
+        "no": 381
+      },
+      {
+        "name": "Colors HD",
+        "no": 147
+      },
+      {
+        "name": "Dabangg",
+        "no": 1221
+      },
+      {
+        "name": "Dangal",
+        "no": 177
+      },
+      {
+        "name": "DD Arunprabha",
+        "no": 1986
+      },
+      {
+        "name": "DD Bihar",
+        "no": 1154
+      },
+      {
+        "name": "DD Gyandarshan",
+        "no": 755
+      },
+      {
+        "name": "DD Madhya Pradesh",
+        "no": 1175
+      },
+      {
+        "name": "DD National",
+        "no": 114
+      },
+      {
+        "name": "DD Rajasthan (Jaipur)",
+        "no": 1190
+      },
+      {
+        "name": "DD Uttar Pradesh",
+        "no": 1153
+      },
+      {
+        "name": "Dhamaal TV",
+        "no": 1358
+      },
+      {
+        "name": "Dhamaka Movies B4U",
+        "no": 382
+      },
+      {
+        "name": "Enterr 10",
+        "no": 331
+      },
+      {
+        "name": "Gangaur",
+        "no": 426
+      },
+      {
+        "name": "Green Chillies",
+        "no": 1156
+      },
+      {
+        "name": "Investigation Discovery 155 Entertainment",
+        "no": 5
+      },
+      {
+        "name": "Jio Prime HD",
+        "no": 1196
+      },
+      {
+        "name": "Maha Movies",
+        "no": 1208
+      },
+      {
+        "name": "Manoranjan Grand",
+        "no": 377
+      },
+      {
+        "name": "Manoranjan TV",
+        "no": 376
+      },
+      {
+        "name": "NH Studioz",
+        "no": 1416
+      },
+      {
+        "name": "No Filter Neha",
+        "no": 2962
+      },
+      {
+        "name": "Raisinghani vs Raisinghani",
+        "no": 1797
+      },
+      {
+        "name": "Raj Pariwar",
+        "no": 1072
+      },
+      {
+        "name": "RC Studio",
+        "no": 1801
+      },
+      {
+        "name": "Shemaroo Umang",
+        "no": 184
+      },
+      {
+        "name": "ShemarooTV",
+        "no": 181
+      },
+      {
+        "name": "Shrimad Ramayan",
+        "no": 1720
+      },
+      {
+        "name": "Sony MAX",
+        "no": 478
+      },
+      {
+        "name": "Sony MAX 2",
+        "no": 477
+      },
+      {
+        "name": "Sony MAX HD",
+        "no": 312
+      },
+      {
+        "name": "Sony PAL",
+        "no": 174
+      },
+      {
+        "name": "Sony SAB HD",
+        "no": 132
+      },
+      {
+        "name": "Sony SET HD",
+        "no": 128
+      },
+      {
+        "name": "Sony WAH",
+        "no": 351
+      },
+      {
+        "name": "Star Bharat",
+        "no": 121
+      },
+      {
+        "name": "Star Gold",
+        "no": 308
+      },
+      {
+        "name": "Star Plus",
+        "no": 115
+      },
+      {
+        "name": "Star Utsav",
+        "no": 171
+      },
+      {
+        "name": "The Q Kahaniyan",
+        "no": 1089
+      },
+      {
+        "name": "Unique Tv",
+        "no": 1805
+      },
+      {
+        "name": "Zee Action",
+        "no": 349
+      },
+      {
+        "name": "Zee Anmol",
+        "no": 172
+      },
+      {
+        "name": "Zee Anmol Cinema",
+        "no": 371
+      },
+      {
+        "name": "Zee Bollywood",
+        "no": 327
+      },
+      {
+        "name": "Zee Cinema",
+        "no": 321
+      },
+      {
+        "name": "Zee Cinema HD",
+        "no": 319
+      },
+      {
+        "name": "Zee Classic",
+        "no": 328
+      },
+      {
+        "name": "Zee TV",
+        "no": 143
+      },
+      {
+        "name": "Zee TV HD",
+        "no": 141
+      }
+    ],
+    "News": [
+      {
+        "name": "22Scope News",
+        "no": 1475
+      },
+      {
+        "name": "9Bharath Samachar",
+        "no": 218
+      },
+      {
+        "name": "A1 TV Rajasthan",
+        "no": 221
+      },
+      {
+        "name": "Aaj Ki Khabar",
+        "no": 1436
+      },
+      {
+        "name": "Aaj Tak",
+        "no": 508
+      },
+      {
+        "name": "AB Star News",
+        "no": 1388
+      },
+      {
+        "name": "ABC News",
+        "no": 1426
+      },
+      {
+        "name": "ABP Ganga",
+        "no": 320
+      },
+      {
+        "name": "AMV",
+        "no": 1770
+      },
+      {
+        "name": "Anaadi TV",
+        "no": 1170
+      },
+      {
+        "name": "ANB News",
+        "no": 1927
+      },
+      {
+        "name": "Aryan TV National",
+        "no": 1173
+      },
+      {
+        "name": "Asian News",
+        "no": 1174
+      },
+      {
+        "name": "Atmadarshan TV",
+        "no": 1470
+      },
+      {
+        "name": "Bansal News",
+        "no": 1162
+      },
+      {
+        "name": "Bharat 24",
+        "no": 531
+      },
+      {
+        "name": "Bharat Express",
+        "no": 535
+      },
+      {
+        "name": "Bharat Samachar",
+        "no": 559
+      },
+      {
+        "name": "BSTV",
+        "no": 1224
+      },
+      {
+        "name": "C News Bharat",
+        "no": 1180
+      },
+      {
+        "name": "CNBC Awaaz",
+        "no": 592
+      },
+      {
+        "name": "DD News",
+        "no": 501
+      },
+      {
+        "name": "DNN",
+        "no": 632
+      },
+      {
+        "name": "ET Now Swadesh",
+        "no": 594
+      },
+      {
+        "name": "Express News Bharat",
+        "no": 1054
+      },
+      {
+        "name": "First India News",
+        "no": 1182
+      },
+      {
+        "name": "FM News",
+        "no": 1390
+      },
+      {
+        "name": "GBN 24",
+        "no": 1052
+      },
+      {
+        "name": "Global India",
+        "no": 1195
+      },
+      {
+        "name": "Good News Today",
+        "no": 525
+      },
+      {
+        "name": "Har Khabar",
+        "no": 570
+      },
+      {
+        "name": "Hindi Khabar",
+        "no": 557
+      },
+      {
+        "name": "HNN 24x7",
+        "no": 1355
+      },
+      {
+        "name": "IBC24",
+        "no": 1161
+      },
+      {
+        "name": "IN 24 News",
+        "no": 289
+      },
+      {
+        "name": "IN24 Live",
+        "no": 1479
+      },
+      {
+        "name": "IND 24",
+        "no": 257
+      },
+      {
+        "name": "India 24x7",
+        "no": 1433
+      },
+      {
+        "name": "India Daily Live",
+        "no": 536
+      },
+      {
+        "name": "India news",
+        "no": 522
+      },
+      {
+        "name": "India News Haryana",
+        "no": 1924
+      },
+      {
+        "name": "India News MP",
+        "no": 1164
+      },
+      {
+        "name": "India News Rajasthan",
+        "no": 1183
+      },
+      {
+        "name": "India News UP",
+        "no": 1136
+      },
+      {
+        "name": "India TV",
+        "no": 514
+      },
+      {
+        "name": "India TV Aap Ki Adalat",
+        "no": 1817
+      },
+      {
+        "name": "India TV Speed News",
+        "no": 1821
+      },
+      {
+        "name": "India TV Yoga Channel",
+        "no": 1816
+      },
+      {
+        "name": "India Voice",
+        "no": 551
+      },
+      {
+        "name": "INH 24x7",
+        "no": 1813
+      },
+      {
+        "name": "IPN News",
+        "no": 1701
+      },
+      {
+        "name": "IPN News",
+        "no": 1750
+      },
+      {
+        "name": "Jan Setu News",
+        "no": 1400
+      },
+      {
+        "name": "Jan TV",
+        "no": 1185
+      },
+      {
+        "name": "Janta Darbar News",
+        "no": 1450
+      },
+      {
+        "name": "Janta TV",
+        "no": 1925
+      },
+      {
+        "name": "Jantantra",
+        "no": 568
+      },
+      {
+        "name": "JK 24x7 News",
+        "no": 1197
+      },
+      {
+        "name": "K News India",
+        "no": 280
+      },
+      {
+        "name": "Kashish News",
+        "no": 1139
+      },
+      {
+        "name": "KKD News",
+        "no": 1080
+      },
+      {
+        "name": "KP News 24x7",
+        "no": 1500
+      },
+      {
+        "name": "Leaking Top Secret",
+        "no": 1127
+      },
+      {
+        "name": "Living India News",
+        "no": 1928
+      },
+      {
+        "name": "Mh One News",
+        "no": 1104
+      },
+      {
+        "name": "National News",
+        "no": 1510
+      },
+      {
+        "name": "NDTV India",
+        "no": 506
+      },
+      {
+        "name": "Network 10",
+        "no": 567
+      },
+      {
+        "name": "News 1 India",
+        "no": 553
+      },
+      {
+        "name": "News 18 UP",
+        "no": 1125
+      },
+      {
+        "name": "News 21",
+        "no": 1401
+      },
+      {
+        "name": "News 24",
+        "no": 516
+      },
+      {
+        "name": "NEWS 24 MPCG",
+        "no": 1169
+      },
+      {
+        "name": "News Flash",
+        "no": 1050
+      },
+      {
+        "name": "News Hour",
+        "no": 1792
+      },
+      {
+        "name": "News India 24x7",
+        "no": 530
+      },
+      {
+        "name": "News Nation",
+        "no": 523
+      },
+      {
+        "name": "News State Bihar Jharkhand",
+        "no": 1131
+      },
+      {
+        "name": "News State MPCG",
+        "no": 1486
+      },
+      {
+        "name": "News State UK UP",
+        "no": 1137
+      },
+      {
+        "name": "News11",
+        "no": 1346
+      },
+      {
+        "name": "News11 Bharat",
+        "no": 552
+      },
+      {
+        "name": "News18 Haryana and HP News",
+        "no": 1076
+      },
+      {
+        "name": "News18 India",
+        "no": 519
+      },
+      {
+        "name": "News18 Madhya Pradesh-",
+        "no": 1155
+      },
+      {
+        "name": "News18 Rajasthan",
+        "no": 1176
+      },
+      {
+        "name": "P News",
+        "no": 1387
+      },
+      {
+        "name": "Popular TV",
+        "no": 936
+      },
+      {
+        "name": "Prime News",
+        "no": 569
+      },
+      {
+        "name": "Prime TV",
+        "no": 1706
+      },
+      {
+        "name": "Public First",
+        "no": 1454
+      },
+      {
+        "name": "Pulse 24",
+        "no": 1051
+      },
+      {
+        "name": "Raftaar Media",
+        "no": 276
+      },
+      {
+        "name": "Republic Bharat",
+        "no": 1148
+      },
+      {
+        "name": "RRN News",
+        "no": 466
+      },
+      {
+        "name": "Sacchi Report",
+        "no": 1480
+      },
+      {
+        "name": "Sadhna News MP CG",
+        "no": 1168
+      },
+      {
+        "name": "Sadhna News Plus",
+        "no": 1138
+      },
+      {
+        "name": "Sahara Samay Bihar",
+        "no": 1764
+      },
+      {
+        "name": "SAHARA SAMAY MP",
+        "no": 1761
+      },
+      {
+        "name": "Sahara Samay Rajasthan",
+        "no": 1765
+      },
+      {
+        "name": "Sahara Samay Rastriya",
+        "no": 1760
+      },
+      {
+        "name": "SAHARA SAMAY UP",
+        "no": 1762
+      },
+      {
+        "name": "Samachar 24",
+        "no": 1701
+      },
+      {
+        "name": "Samachar Plus Jharkhand Bihar",
+        "no": 1335
+      },
+      {
+        "name": "Sansad TV HD",
+        "no": 597
+      },
+      {
+        "name": "Sansad TV Rajya Sabha",
+        "no": 599
+      },
+      {
+        "name": "Sansad TV SD",
+        "no": 598
+      },
+      {
+        "name": "SMBC TV",
+        "no": 1059
+      },
+      {
+        "name": "STV Haryana News",
+        "no": 1932
+      },
+      {
+        "name": "Sudarshan",
+        "no": 534
+      },
+      {
+        "name": "Surya Samachar",
+        "no": 533
+      },
+      {
+        "name": "Swadesh News",
+        "no": 1206
+      },
+      {
+        "name": "Taaza TV",
+        "no": 408
+      },
+      {
+        "name": "Tar TV",
+        "no": 1714
+      },
+      {
+        "name": "Times Now Navbharat",
+        "no": 528
+      },
+      {
+        "name": "TNI24",
+        "no": 1798
+      },
+      {
+        "name": "Today 24 News",
+        "no": 1049
+      },
+      {
+        "name": "Total TV",
+        "no": 527
+      },
+      {
+        "name": "Total Tv Haryana",
+        "no": 1144
+      },
+      {
+        "name": "TTN24",
+        "no": 543
+      },
+      {
+        "name": "TV 100",
+        "no": 1348
+      },
+      {
+        "name": "TV27 News",
+        "no": 1172
+      },
+      {
+        "name": "TV45",
+        "no": 1513
+      },
+      {
+        "name": "TV9 Bharatvarsh",
+        "no": 524
+      },
+      {
+        "name": "Update India",
+        "no": 1712
+      },
+      {
+        "name": "Vande Bharat News",
+        "no": 2097
+      },
+      {
+        "name": "VIP News",
+        "no": 1791
+      },
+      {
+        "name": "VNM TV",
+        "no": 498
+      },
+      {
+        "name": "Zee Business",
+        "no": 590
+      },
+      {
+        "name": "Zee Delhi NCR Haryana",
+        "no": 1931
+      },
+      {
+        "name": "Zee Hindustan",
+        "no": 520
+      },
+      {
+        "name": "Zee News",
+        "no": 511
+      },
+      {
+        "name": "Zee News MP Chattisgarh",
+        "no": 1085
+      },
+      {
+        "name": "Zee Rajasthan",
+        "no": 1177
+      },
+      {
+        "name": "Zee UP UK",
+        "no": 1126
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Cartoon Network",
+        "no": 667
+      },
+      {
+        "name": "Discovery Kids",
+        "no": 672
+      },
+      {
+        "name": "Jio KIDS",
+        "no": 1117
+      },
+      {
+        "name": "Nick Junior",
+        "no": 685
+      },
+      {
+        "name": "Pogo",
+        "no": 670
+      },
+      {
+        "name": "Power Kids TV",
+        "no": 1444
+      },
+      {
+        "name": "Sony YAY SD",
+        "no": 676
+      }
+    ],
+    "Educational & Infotainment": [
+      {
+        "name": "Animal Planet",
+        "no": 717
+      },
+      {
+        "name": "DD bharati",
+        "no": 1152
+      },
+      {
+        "name": "DD Kisan",
+        "no": 198
+      },
+      {
+        "name": "Discovery Channel",
+        "no": 714
+      },
+      {
+        "name": "Gyan Brikshya",
+        "no": 248
+      },
+      {
+        "name": "Gyanvani 1",
+        "no": 249
+      },
+      {
+        "name": "Haryana Buzz",
+        "no": 1498
+      },
+      {
+        "name": "History TV18 Hindi",
+        "no": 409
+      },
+      {
+        "name": "India Science",
+        "no": 251
+      },
+      {
+        "name": "Jio Events HD",
+        "no": 190
+      },
+      {
+        "name": "Naaptol",
+        "no": 156
+      },
+      {
+        "name": "Narayana Health",
+        "no": 1783
+      },
+      {
+        "name": "Narikaa",
+        "no": 494
+      },
+      {
+        "name": "Utkarsh Higher",
+        "no": 255
+      },
+      {
+        "name": "Utkarsh Middle",
+        "no": 254
+      },
+      {
+        "name": "Utkarsh Primary",
+        "no": 252
+      },
+      {
+        "name": "Utkarsh Secondary",
+        "no": 253
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "35mm",
+        "no": 1398
+      },
+      {
+        "name": "Aastha",
+        "no": 1055
+      },
+      {
+        "name": "Aastha Bhajan",
+        "no": 1077
+      },
+      {
+        "name": "Adhyatam TV",
+        "no": 1704
+      },
+      {
+        "name": "Arihant TV",
+        "no": 1067
+      },
+      {
+        "name": "Arya Sandesh TV",
+        "no": 437
+      },
+      {
+        "name": "Awakening",
+        "no": 1084
+      },
+      {
+        "name": "Bhakti Sagar",
+        "no": 367
+      },
+      {
+        "name": "Bhaktisagar 2",
+        "no": 1719
+      },
+      {
+        "name": "Darshan 24",
+        "no": 294
+      },
+      {
+        "name": "Dharm Granth TV",
+        "no": 1800
+      },
+      {
+        "name": "Disha tv",
+        "no": 224
+      },
+      {
+        "name": "Divya TV",
+        "no": 1083
+      },
+      {
+        "name": "Divyalok TV",
+        "no": 927
+      },
+      {
+        "name": "Hare krsna",
+        "no": 226
+      },
+      {
+        "name": "Hare Krsna Music",
+        "no": 227
+      },
+      {
+        "name": "Hare Krsna Pravachan",
+        "no": 228
+      },
+      {
+        "name": "Ishvani TV",
+        "no": 1709
+      },
+      {
+        "name": "Ishwar TV",
+        "no": 1068
+      },
+      {
+        "name": "ISKCON Bangalore",
+        "no": 1143
+      },
+      {
+        "name": "Jeewan Bhakti",
+        "no": 1509
+      },
+      {
+        "name": "Jigyasa TV",
+        "no": 480
+      },
+      {
+        "name": "Jinvani TV",
+        "no": 1066
+      },
+      {
+        "name": "Kripa TV",
+        "no": 1042
+      },
+      {
+        "name": "Krishna Vani",
+        "no": 231
+      },
+      {
+        "name": "Manav Dharam",
+        "no": 232
+      },
+      {
+        "name": "mh1 Shraddha",
+        "no": 1061
+      },
+      {
+        "name": "Nimbark TV",
+        "no": 897
+      },
+      {
+        "name": "Paras tv",
+        "no": 234
+      },
+      {
+        "name": "Peace of Mind",
+        "no": 1065
+      },
+      {
+        "name": "PMC Hindi",
+        "no": 1109
+      },
+      {
+        "name": "Prarthana Bhawan",
+        "no": 1373
+      },
+      {
+        "name": "Prati Shirdi Saibaba",
+        "no": 899
+      },
+      {
+        "name": "Sadhguru Television SD",
+        "no": 1782
+      },
+      {
+        "name": "Sadhna",
+        "no": 1063
+      },
+      {
+        "name": "Sai Leela",
+        "no": 1789
+      },
+      {
+        "name": "Sanatan TV",
+        "no": 1389
+      },
+      {
+        "name": "Sanskar",
+        "no": 1057
+      },
+      {
+        "name": "Sanskriti 24x7",
+        "no": 1087
+      },
+      {
+        "name": "Santvani",
+        "no": 239
+      },
+      {
+        "name": "Sarv Dharam Sangam",
+        "no": 240
+      },
+      {
+        "name": "Satsang TV",
+        "no": 1073
+      },
+      {
+        "name": "Sharnam TV",
+        "no": 1064
+      },
+      {
+        "name": "Shri Amarnathji Shrine Board",
+        "no": 997
+      },
+      {
+        "name": "Shubh TV",
+        "no": 1074
+      },
+      {
+        "name": "Shubhsandesh TV",
+        "no": 1361
+      },
+      {
+        "name": "Soham TV",
+        "no": 243
+      },
+      {
+        "name": "Subharti",
+        "no": 1082
+      },
+      {
+        "name": "Swar Shree",
+        "no": 1489
+      },
+      {
+        "name": "Vedic TV",
+        "no": 1078
+      }
+    ],
+    "Sports": [
+      {
+        "name": "DD Sports",
+        "no": 453
+      },
+      {
+        "name": "MI TV",
+        "no": 274
+      },
+      {
+        "name": "Q GameX",
+        "no": 438
+      },
+      {
+        "name": "Sony Ten 3 HD Hindi",
+        "no": 475
+      },
+      {
+        "name": "Sports18 2",
+        "no": 1478
+      },
+      {
+        "name": "Sports18 Khel",
+        "no": 273
+      },
+      {
+        "name": "Star Sports 1 Hindi",
+        "no": 459
+      }
+    ],
+    "Others – Lifestyle & Music": [
+      {
+        "name": "9X Jalwa",
+        "no": 830
+      },
+      {
+        "name": "9XM",
+        "no": 809
+      },
+      {
+        "name": "Artist Aloud",
+        "no": 369
+      },
+      {
+        "name": "B4U Music",
+        "no": 822
+      },
+      {
+        "name": "Boogle Bollywood",
+        "no": 206
+      },
+      {
+        "name": "Coke Studio Bharat",
+        "no": 1512
+      },
+      {
+        "name": "Coke Studio Bharat Season 1",
+        "no": 1767
+      },
+      {
+        "name": "Desi Music Station",
+        "no": 447
+      },
+      {
+        "name": "Dil Se",
+        "no": 362
+      },
+      {
+        "name": "E24",
+        "no": 813
+      },
+      {
+        "name": "Insync",
+        "no": 265
+      },
+      {
+        "name": "Kadak Hits",
+        "no": 338
+      },
+      {
+        "name": "Mastiii",
+        "no": 825
+      },
+      {
+        "name": "Merchant Records",
+        "no": 415
+      },
+      {
+        "name": "MTV",
+        "no": 806
+      },
+      {
+        "name": "MTV Beats HD",
+        "no": 820
+      },
+      {
+        "name": "MTV HD Plus",
+        "no": 202
+      },
+      {
+        "name": "Music India",
+        "no": 204
+      },
+      {
+        "name": "Food Food",
+        "no": 768
+      },
+      {
+        "name": "Foodxp",
+        "no": 771
+      },
+      {
+        "name": "TLC",
+        "no": 760
+      },
+      {
+        "name": "Travel XP HD",
+        "no": 1056
+      },
+      {
+        "name": "Nazrana",
+        "no": 370
+      },
+      {
+        "name": "Oye Music",
+        "no": 1710
+      },
+      {
+        "name": "Pop Pataka",
+        "no": 363
+      },
+      {
+        "name": "RS Bharat",
+        "no": 421
+      },
+      {
+        "name": "Saregama Music",
+        "no": 1031
+      },
+      {
+        "name": "YRF Music",
+        "no": 1377
+      },
+      {
+        "name": "Zing",
+        "no": 826
+      },
+      {
+        "name": "ZOOM",
+        "no": 811
+      }
+    ]
+  },
+  "English": {
+    "Entertainment & Movies": [
+      {
+        "name": "&flix",
+        "no": 412
+      },
+      {
+        "name": "&Prive HD",
+        "no": 431
+      },
+      {
+        "name": "Animax",
+        "no": 1222
+      },
+      {
+        "name": "Colors Infinity HD",
+        "no": 214
+      },
+      {
+        "name": "Comedy Central HD",
+        "no": 136
+      },
+      {
+        "name": "Greens Internal",
+        "no": 1703
+      },
+      {
+        "name": "Hi Dost!",
+        "no": 1218
+      },
+      {
+        "name": "Jio Exclusive HD",
+        "no": 275
+      },
+      {
+        "name": "Jio Specials HD",
+        "no": 445
+      },
+      {
+        "name": "KCM 1482 Entertainment",
+        "no": 19
+      },
+      {
+        "name": "Star Entertainment",
+        "no": 1393
+      },
+      {
+        "name": "Star Entertainment",
+        "no": 1397
+      },
+      {
+        "name": "The Q",
+        "no": 175
+      },
+      {
+        "name": "Zee CafÃ© HD",
+        "no": 210
+      }
+    ],
+    "News": [
+      {
+        "name": "ABC Australia",
+        "no": 1515
+      },
+      {
+        "name": "AL Jazeera",
+        "no": 637
+      },
+      {
+        "name": "Channel News Asia International",
+        "no": 638
+      },
+      {
+        "name": "CNBC TV18",
+        "no": 626
+      },
+      {
+        "name": "CNBC Tv18 Prime HD",
+        "no": 625
+      },
+      {
+        "name": "CNN",
+        "no": 1781
+      },
+      {
+        "name": "CNN NEWS 18",
+        "no": 608
+      },
+      {
+        "name": "CVR English",
+        "no": 196
+      },
+      {
+        "name": "DD India",
+        "no": 622
+      },
+      {
+        "name": "dw",
+        "no": 641
+      },
+      {
+        "name": "Enrich TV",
+        "no": 1718
+      },
+      {
+        "name": "ET Now",
+        "no": 627
+      },
+      {
+        "name": "Euro News",
+        "no": 1342
+      },
+      {
+        "name": "Firstpost",
+        "no": 540
+      },
+      {
+        "name": "France 24",
+        "no": 639
+      },
+      {
+        "name": "GoodNews Channel",
+        "no": 1347
+      },
+      {
+        "name": "Hornbill TV",
+        "no": 1209
+      },
+      {
+        "name": "India Today",
+        "no": 606
+      },
+      {
+        "name": "Mirror Now",
+        "no": 612
+      },
+      {
+        "name": "NDTV 24x7",
+        "no": 601
+      },
+      {
+        "name": "NDTV Profit",
+        "no": 623
+      },
+      {
+        "name": "News 9",
+        "no": 1483
+      },
+      {
+        "name": "News X",
+        "no": 610
+      },
+      {
+        "name": "NHK World Japan",
+        "no": 644
+      },
+      {
+        "name": "NL TV",
+        "no": 1012
+      },
+      {
+        "name": "Republic TV",
+        "no": 616
+      },
+      {
+        "name": "RT TV",
+        "no": 1374
+      },
+      {
+        "name": "Shekinah TV",
+        "no": 285
+      },
+      {
+        "name": "Times NOW",
+        "no": 604
+      },
+      {
+        "name": "Times Now World",
+        "no": 603
+      },
+      {
+        "name": "Wion",
+        "no": 613
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Nick HD+",
+        "no": 662
+      }
+    ],
+    "Educational & Infotainment": [
+      {
+        "name": "Aakash EduTV JEE",
+        "no": 1016
+      },
+      {
+        "name": "Aakash EduTV NEET",
+        "no": 1019
+      },
+      {
+        "name": "Animal Planet HD World",
+        "no": 716
+      },
+      {
+        "name": "Birla Brainiacs",
+        "no": 360
+      },
+      {
+        "name": "Crypto TV",
+        "no": 284
+      },
+      {
+        "name": "Discovery HD World",
+        "no": 713
+      },
+      {
+        "name": "Discovery Science",
+        "no": 719
+      },
+      {
+        "name": "Discovery Turbo",
+        "no": 764
+      },
+      {
+        "name": "History TV18 HD",
+        "no": 720
+      },
+      {
+        "name": "NSDC TV",
+        "no": 298
+      },
+      {
+        "name": "PM e Vidya 01",
+        "no": 1166
+      },
+      {
+        "name": "PM e Vidya 02",
+        "no": 372
+      },
+      {
+        "name": "PM e Vidya 03",
+        "no": 373
+      },
+      {
+        "name": "PM e Vidya 04",
+        "no": 374
+      },
+      {
+        "name": "PM e Vidya 05",
+        "no": 375
+      },
+      {
+        "name": "PM e Vidya 06",
+        "no": 1159
+      },
+      {
+        "name": "PM e Vidya 07",
+        "no": 1158
+      },
+      {
+        "name": "PM e Vidya 08",
+        "no": 378
+      },
+      {
+        "name": "PM e Vidya 09",
+        "no": 379
+      },
+      {
+        "name": "PM e Vidya 10",
+        "no": 380
+      },
+      {
+        "name": "PM e Vidya 11",
+        "no": 1160
+      },
+      {
+        "name": "PM e Vidya 12",
+        "no": 1167
+      },
+      {
+        "name": "Swayam Prabha 01",
+        "no": 384
+      },
+      {
+        "name": "Swayam Prabha 02",
+        "no": 385
+      },
+      {
+        "name": "Swayam Prabha 03",
+        "no": 386
+      },
+      {
+        "name": "Swayam Prabha 04",
+        "no": 387
+      },
+      {
+        "name": "Swayam Prabha 05",
+        "no": 388
+      },
+      {
+        "name": "Swayam Prabha 06",
+        "no": 389
+      },
+      {
+        "name": "Swayam Prabha 07",
+        "no": 390
+      },
+      {
+        "name": "Swayam Prabha 08",
+        "no": 391
+      },
+      {
+        "name": "Swayam Prabha 09",
+        "no": 392
+      },
+      {
+        "name": "Swayam Prabha 10",
+        "no": 393
+      },
+      {
+        "name": "Swayam Prabha 11",
+        "no": 394
+      },
+      {
+        "name": "Swayam Prabha 12",
+        "no": 395
+      },
+      {
+        "name": "Swayam Prabha 13",
+        "no": 1787
+      },
+      {
+        "name": "Swayam Prabha 14",
+        "no": 396
+      },
+      {
+        "name": "Swayam Prabha 15",
+        "no": 397
+      },
+      {
+        "name": "Swayam Prabha 16",
+        "no": 398
+      },
+      {
+        "name": "Swayam Prabha 17",
+        "no": 399
+      },
+      {
+        "name": "Swayam Prabha 18",
+        "no": 1788
+      },
+      {
+        "name": "Swayam Prabha 19",
+        "no": 1784
+      },
+      {
+        "name": "Swayam Prabha 20",
+        "no": 400
+      },
+      {
+        "name": "Swayam Prabha 21",
+        "no": 401
+      },
+      {
+        "name": "Swayam Prabha 22",
+        "no": 402
+      },
+      {
+        "name": "Wild Earth",
+        "no": 924
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Auroville TV",
+        "no": 383
+      },
+      {
+        "name": "God TV",
+        "no": 1886
+      },
+      {
+        "name": "Grace TV",
+        "no": 1445
+      },
+      {
+        "name": "Sadguru Television SD",
+        "no": 1716
+      },
+      {
+        "name": "Sadhguru Television SD",
+        "no": 1782
+      }
+    ],
+    "Sports": [
+      {
+        "name": "Brave TV",
+        "no": 1419
+      },
+      {
+        "name": "Eurosport",
+        "no": 496
+      },
+      {
+        "name": "Eurosport HD",
+        "no": 495
+      },
+      {
+        "name": "Jio Cricket English HD",
+        "no": 1024
+      },
+      {
+        "name": "JioGames HD",
+        "no": 341
+      },
+      {
+        "name": "Lancs TV HD",
+        "no": 1782
+      },
+      {
+        "name": "Red Bull TV",
+        "no": 1213
+      },
+      {
+        "name": "Sony Sports Ten 5 HD",
+        "no": 483
+      },
+      {
+        "name": "Sony TEN 1 HD",
+        "no": 470
+      },
+      {
+        "name": "Sony TEN 2 HD",
+        "no": 473
+      },
+      {
+        "name": "Sports18 1 HD",
+        "no": 487
+      },
+      {
+        "name": "Sports18 3",
+        "no": 1477
+      },
+      {
+        "name": "Star Sports 1",
+        "no": 455
+      },
+      {
+        "name": "Star Sports 2",
+        "no": 456
+      },
+      {
+        "name": "Star Sports Select HD1",
+        "no": 463
+      },
+      {
+        "name": "Star Sports Select HD2",
+        "no": 465
+      }
+    ],
+    "Others – Lifestyle & Music": [
+      {
+        "name": "Fashion India",
+        "no": 297
+      },
+      {
+        "name": "NDTV GOOD TiMES",
+        "no": 762
+      },
+      {
+        "name": "Sadhguru Television HD",
+        "no": 337
+      },
+      {
+        "name": "TLC HD",
+        "no": 759
+      },
+      {
+        "name": "Travel XP HD",
+        "no": 765
+      },
+      {
+        "name": "VH 1 HD",
+        "no": 855
+      },
+      {
+        "name": "Zee Zest SD",
+        "no": 1508
+      }
+    ]
+  },
+  "Tamil": {
+    "Entertainment & Movies": [
+      {
+        "name": "Adithya TV",
+        "no": 1543
+      },
+      {
+        "name": "Colors Tamil HD",
+        "no": 1514
+      },
+      {
+        "name": "DD5 Podhigai",
+        "no": 1578
+      },
+      {
+        "name": "Kalaignar TV",
+        "no": 1518
+      },
+      {
+        "name": "KTV",
+        "no": 1541
+      },
+      {
+        "name": "Makkal TV",
+        "no": 1533
+      },
+      {
+        "name": "MK TV",
+        "no": 1345
+      },
+      {
+        "name": "Moon TV",
+        "no": 1402
+      },
+      {
+        "name": "Peppers TV",
+        "no": 1534
+      },
+      {
+        "name": "Polimer TV",
+        "no": 1532
+      },
+      {
+        "name": "Puthu Yugam",
+        "no": 1191
+      },
+      {
+        "name": "Raj Digital Plus",
+        "no": 1522
+      },
+      {
+        "name": "Raj TV",
+        "no": 1520
+      },
+      {
+        "name": "Star Vijay",
+        "no": 1507
+      },
+      {
+        "name": "Sun Life",
+        "no": 1506
+      },
+      {
+        "name": "Sun TV",
+        "no": 1504
+      },
+      {
+        "name": "Sun TV HD",
+        "no": 1503
+      },
+      {
+        "name": "Vaanavil TV",
+        "no": 1339
+      },
+      {
+        "name": "Vasanth TV",
+        "no": 1530
+      },
+      {
+        "name": "Vendhar TV",
+        "no": 1536
+      },
+      {
+        "name": "Zee Tamil",
+        "no": 1511
+      },
+      {
+        "name": "Zee Thirai",
+        "no": 1546
+      },
+      {
+        "name": "KTV HD",
+        "no": 1540
+      }
+    ],
+    "News": [
+      {
+        "name": "Kalaignar Seithigal",
+        "no": 521
+      },
+      {
+        "name": "M Nadu",
+        "no": 1121
+      },
+      {
+        "name": "Malai Murasu",
+        "no": 1186
+      },
+      {
+        "name": "News J",
+        "no": 1568
+      },
+      {
+        "name": "News Tamil 24x7",
+        "no": 1569
+      },
+      {
+        "name": "News18 Tamil Nadu",
+        "no": 1562
+      },
+      {
+        "name": "News7 Tamil",
+        "no": 1560
+      },
+      {
+        "name": "Polimer News",
+        "no": 1561
+      },
+      {
+        "name": "Puthiya Thalaimurai",
+        "no": 1556
+      },
+      {
+        "name": "Raj News 24x7",
+        "no": 1095
+      },
+      {
+        "name": "Sathiyam TV",
+        "no": 1565
+      },
+      {
+        "name": "Sun News",
+        "no": 1559
+      },
+      {
+        "name": "Tamilan Television",
+        "no": 1452
+      },
+      {
+        "name": "Thanthi TV",
+        "no": 1557
+      },
+      {
+        "name": "Velicham TV",
+        "no": 1775
+      },
+      {
+        "name": "Win TV",
+        "no": 314
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Chutti TV",
+        "no": 693
+      },
+      {
+        "name": "Discovery Kids",
+        "no": 672
+      }
+    ],
+    "Infotainment": [
+      {
+        "name": "D Tamil",
+        "no": 1521
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Aastha Tamil",
+        "no": 1198
+      },
+      {
+        "name": "Jothi TV",
+        "no": 1587
+      },
+      {
+        "name": "Madha TV",
+        "no": 1590
+      },
+      {
+        "name": "Nambikkai",
+        "no": 1592
+      },
+      {
+        "name": "Sai TV",
+        "no": 929
+      },
+      {
+        "name": "SRS Bhakti TV",
+        "no": 493
+      },
+      {
+        "name": "SVBC2",
+        "no": 1599
+      },
+      {
+        "name": "SVBC3",
+        "no": 1698
+      },
+      {
+        "name": "SVBC4",
+        "no": 922
+      },
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      },
+      {
+        "name": "Velukkudi Discourses",
+        "no": 538
+      }
+    ],
+    "Others – Lifestyle & Music": [
+      {
+        "name": "Coke Studio Tamil",
+        "no": 1713
+      },
+      {
+        "name": "Coke Studio Tamil Season 1",
+        "no": 1700
+      },
+      {
+        "name": "MK Music",
+        "no": 1343
+      },
+      {
+        "name": "Raj Musix",
+        "no": 1582
+      },
+      {
+        "name": "Sun Music",
+        "no": 1580
+      },
+      {
+        "name": "Sun Music HD",
+        "no": 1579
+      },
+      {
+        "name": "Travel XP Tamil",
+        "no": 1553
+      },
+      {
+        "name": "Tunes 6",
+        "no": 1039
+      }
+    ]
+  },
+  "Telugu": {
+    "Entertainment & Movies": [
+      {
+        "name": "DD Saptagiri",
+        "no": 1481
+      },
+      {
+        "name": "ETV Cinema",
+        "no": 1440
+      },
+      {
+        "name": "ETV Cinema HD",
+        "no": 1469
+      },
+      {
+        "name": "ETV HD",
+        "no": 1411
+      },
+      {
+        "name": "ETV Plus",
+        "no": 1417
+      },
+      {
+        "name": "ETV Plus HD",
+        "no": 1455
+      },
+      {
+        "name": "ETV Telugu",
+        "no": 1412
+      },
+      {
+        "name": "Gemini Comedy",
+        "no": 1442
+      },
+      {
+        "name": "Gemini Life",
+        "no": 1415
+      },
+      {
+        "name": "Gemini Movies",
+        "no": 1431
+      },
+      {
+        "name": "Gemini Movies HD",
+        "no": 1430
+      },
+      {
+        "name": "Gemini TV",
+        "no": 1406
+      },
+      {
+        "name": "Gemini TV HD",
+        "no": 1405
+      },
+      {
+        "name": "Maa Gold 1439 Movies",
+        "no": 37
+      },
+      {
+        "name": "Maa Gold HD",
+        "no": 1435
+      },
+      {
+        "name": "Star Maa",
+        "no": 1409
+      },
+      {
+        "name": "Studio Yuva Alpha",
+        "no": 1423
+      },
+      {
+        "name": "Vissa TV",
+        "no": 1422
+      },
+      {
+        "name": "Zee Cinemalu",
+        "no": 1437
+      },
+      {
+        "name": "Zee Telugu",
+        "no": 1403
+      }
+    ],
+    "News": [
+      {
+        "name": "10 TV",
+        "no": 1467
+      },
+      {
+        "name": "99 TV",
+        "no": 1497
+      },
+      {
+        "name": "ABN Andhra Jyothi",
+        "no": 1461
+      },
+      {
+        "name": "Big TV",
+        "no": 1472
+      },
+      {
+        "name": "CVR News",
+        "no": 464
+      },
+      {
+        "name": "ETV Andhra Pradesh",
+        "no": 1457
+      },
+      {
+        "name": "ETV Telangana",
+        "no": 1464
+      },
+      {
+        "name": "HM TV",
+        "no": 1465
+      },
+      {
+        "name": "i News",
+        "no": 468
+      },
+      {
+        "name": "India Now",
+        "no": 1781
+      },
+      {
+        "name": "Mahaa News",
+        "no": 1474
+      },
+      {
+        "name": "News 360",
+        "no": 1793
+      },
+      {
+        "name": "NTV",
+        "no": 1460
+      },
+      {
+        "name": "Prime 9 News",
+        "no": 1471
+      },
+      {
+        "name": "Raj News Telugu",
+        "no": 1466
+      },
+      {
+        "name": "Sakshi tv",
+        "no": 1456
+      },
+      {
+        "name": "Studio One",
+        "no": 407
+      },
+      {
+        "name": "Swatantra News",
+        "no": 1468
+      },
+      {
+        "name": "T News",
+        "no": 1462
+      },
+      {
+        "name": "TV5 News",
+        "no": 1458
+      },
+      {
+        "name": "TV9 Telugu",
+        "no": 1459
+      },
+      {
+        "name": "V6 News",
+        "no": 1463
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Kushi TV",
+        "no": 692
+      }
+    ],
+    "Infotainment": [
+      {
+        "name": "CVR Health",
+        "no": 1341
+      },
+      {
+        "name": "ETV Life",
+        "no": 1451
+      },
+      {
+        "name": "Vanitha",
+        "no": 479
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Aastha Telugu",
+        "no": 1179
+      },
+      {
+        "name": "Aradhana TV",
+        "no": 485
+      },
+      {
+        "name": "Bhakti TV",
+        "no": 1490
+      },
+      {
+        "name": "Calvary",
+        "no": 1367
+      },
+      {
+        "name": "CVR OM Spiritual",
+        "no": 1134
+      },
+      {
+        "name": "Divya Vani",
+        "no": 281
+      },
+      {
+        "name": "Hindu Dharmam",
+        "no": 1494
+      },
+      {
+        "name": "PMC Telugu",
+        "no": 1115
+      },
+      {
+        "name": "Sri Venkateshwar Bhakti",
+        "no": 489
+      },
+      {
+        "name": "Subhavaartha TV",
+        "no": 1491
+      },
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      }
+    ],
+    "Others – Lifestyle & Music": [
+      {
+        "name": "ETV Abhiruchi",
+        "no": 1453
+      },
+      {
+        "name": "Gemini Music",
+        "no": 1484
+      },
+      {
+        "name": "Gemini Music HD",
+        "no": 1485
+      },
+      {
+        "name": "Raj Musix Telugu",
+        "no": 1487
+      },
+      {
+        "name": "Saregama Telugu",
+        "no": 1149
+      }
+    ]
+  },
+  "Kannada": {
+    "Entertainment & Movies": [
+      {
+        "name": "Colors Kannada Cinema",
+        "no": 1632
+      },
+      {
+        "name": "Colors Kannada HD",
+        "no": 1600
+      },
+      {
+        "name": "Colors Super",
+        "no": 1615
+      },
+      {
+        "name": "DD9 chandana (kannada)",
+        "no": 1672
+      },
+      {
+        "name": "Nakshatra Digital TV",
+        "no": 448
+      },
+      {
+        "name": "Public Movies",
+        "no": 1639
+      },
+      {
+        "name": "Siri Kannada",
+        "no": 1618
+      },
+      {
+        "name": "Star Suvarna",
+        "no": 1609
+      },
+      {
+        "name": "Udaya Comedy",
+        "no": 1628
+      },
+      {
+        "name": "Udaya Movies",
+        "no": 1626
+      },
+      {
+        "name": "Udaya TV",
+        "no": 1604
+      },
+      {
+        "name": "Udaya TV HD",
+        "no": 1603
+      },
+      {
+        "name": "Zee Kannada",
+        "no": 1611
+      },
+      {
+        "name": "Zee Picchar",
+        "no": 1634
+      }
+    ],
+    "News": [
+      {
+        "name": "BTV",
+        "no": 1226
+      },
+      {
+        "name": "News First",
+        "no": 1214
+      },
+      {
+        "name": "News18 Kannada News",
+        "no": 1656
+      },
+      {
+        "name": "Power TV",
+        "no": 1660
+      },
+      {
+        "name": "Public TV",
+        "no": 1655
+      },
+      {
+        "name": "R.Kannada",
+        "no": 1659
+      },
+      {
+        "name": "Raj News Kannada",
+        "no": 1658
+      },
+      {
+        "name": "Samara News",
+        "no": 1212
+      },
+      {
+        "name": "Suvarna News",
+        "no": 1654
+      },
+      {
+        "name": "TV 5 Kannada",
+        "no": 1657
+      },
+      {
+        "name": "TV9 Kannada",
+        "no": 1653
+      },
+      {
+        "name": "Vistara News",
+        "no": 1662
+      },
+      {
+        "name": "Zee Kannada News",
+        "no": 1334
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Chintu TV",
+        "no": 694
+      }
+    ],
+    "Infotainment": [
+      {
+        "name": "Ayush TV",
+        "no": 1686
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Aastha Kannada",
+        "no": 1371
+      },
+      {
+        "name": "Sri Sankara",
+        "no": 1685
+      },
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      }
+    ],
+    "Others – Music": [
+      {
+        "name": "Public Music",
+        "no": 1677
+      },
+      {
+        "name": "Raj Music Kannada",
+        "no": 1132
+      },
+      {
+        "name": "Sakkat",
+        "no": 299
+      },
+      {
+        "name": "Udaya Music",
+        "no": 1673
+      }
+    ]
+  },
+  "Malayalam": {
+    "Entertainment & Movies": [
+      {
+        "name": "Amrita TV",
+        "no": 1823
+      },
+      {
+        "name": "Asianet",
+        "no": 1806
+      },
+      {
+        "name": "Asianet Plus",
+        "no": 1809
+      },
+      {
+        "name": "DD Malayalam",
+        "no": 1874
+      },
+      {
+        "name": "Flower TV",
+        "no": 555
+      },
+      {
+        "name": "Kairali TV",
+        "no": 1820
+      },
+      {
+        "name": "Kairali WE TV",
+        "no": 1822
+      },
+      {
+        "name": "Mazhavil Manorama",
+        "no": 1819
+      },
+      {
+        "name": "Mazhavil Manorama HD",
+        "no": 1818
+      },
+      {
+        "name": "Surya Comedy 1830 Comedy",
+        "no": 53
+      },
+      {
+        "name": "Surya Movies",
+        "no": 1826
+      },
+      {
+        "name": "Surya TV",
+        "no": 1803
+      },
+      {
+        "name": "Surya TV HD",
+        "no": 1802
+      },
+      {
+        "name": "Zee Keralam",
+        "no": 1811
+      }
+    ],
+    "News": [
+      {
+        "name": "Asianet News",
+        "no": 1841
+      },
+      {
+        "name": "Jaihind tv",
+        "no": 1847
+      },
+      {
+        "name": "Janam TV",
+        "no": 1492
+      },
+      {
+        "name": "Jeevan TV",
+        "no": 1848
+      },
+      {
+        "name": "Kairali News",
+        "no": 1842
+      },
+      {
+        "name": "Manorama News",
+        "no": 1843
+      },
+      {
+        "name": "Mathrubhumi News",
+        "no": 1844
+      },
+      {
+        "name": "Media One TV",
+        "no": 1849
+      },
+      {
+        "name": "News18 Kerala",
+        "no": 1846
+      },
+      {
+        "name": "Raj News Malayalam",
+        "no": 1853
+      },
+      {
+        "name": "Twenty Four News",
+        "no": 1854
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Kochu TV",
+        "no": 695
+      }
+    ],
+    "Educational & Infotainment": [
+      {
+        "name": "Kite Victers",
+        "no": 580
+      },
+      {
+        "name": "Safari TV",
+        "no": 1838
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Goodness",
+        "no": 1885
+      },
+      {
+        "name": "Harvest TV 24x7",
+        "no": 1888
+      },
+      {
+        "name": "Shalom",
+        "no": 1887
+      },
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      }
+    ],
+    "Sports": [
+      {
+        "name": "Sony Ten 1 HD Malayalam",
+        "no": 1526
+      }
+    ],
+    "Others – Lifestyle & Music": [
+      {
+        "name": "Adipolli",
+        "no": 365
+      },
+      {
+        "name": "Kappa TV",
+        "no": 1878
+      },
+      {
+        "name": "Kaumudy TV",
+        "no": 1851
+      },
+      {
+        "name": "Raj Musix Malayalam",
+        "no": 1877
+      },
+      {
+        "name": "Surya Music",
+        "no": 1875
+      }
+    ]
+  },
+  "Marathi": {
+    "Entertainment & Movies": [
+      {
+        "name": "Colors Marathi HD",
+        "no": 1201
+      },
+      {
+        "name": "DD Sahayadri",
+        "no": 1274
+      },
+      {
+        "name": "Fakt Marathi",
+        "no": 1229
+      },
+      {
+        "name": "Maiboli",
+        "no": 1381
+      },
+      {
+        "name": "Rangamanch",
+        "no": 443
+      },
+      {
+        "name": "Shemaroo MarathiBana",
+        "no": 1230
+      },
+      {
+        "name": "Sony Marathi SD",
+        "no": 1202
+      },
+      {
+        "name": "Star Pravah HD",
+        "no": 1207
+      },
+      {
+        "name": "Sun Marathi",
+        "no": 1707
+      },
+      {
+        "name": "Zee Chitramandir",
+        "no": 1519
+      },
+      {
+        "name": "Zee Marathi HD",
+        "no": 1203
+      },
+      {
+        "name": "Zee Talkies",
+        "no": 1225
+      },
+      {
+        "name": "Zee Yuva",
+        "no": 1211
+      }
+    ],
+    "News": [
+      {
+        "name": "ABP Majha",
+        "no": 1255
+      },
+      {
+        "name": "Jai Maharashtra",
+        "no": 1262
+      },
+      {
+        "name": "Lokshahi News",
+        "no": 1265
+      },
+      {
+        "name": "Media9",
+        "no": 449
+      },
+      {
+        "name": "MKN",
+        "no": 1344
+      },
+      {
+        "name": "News State Maharashtra Goa",
+        "no": 1266
+      },
+      {
+        "name": "News18 Lokmat",
+        "no": 1257
+      },
+      {
+        "name": "Pudhari News",
+        "no": 1711
+      },
+      {
+        "name": "Saam Tv",
+        "no": 1261
+      },
+      {
+        "name": "TV9 Marathi",
+        "no": 1263
+      },
+      {
+        "name": "Zee 24 Taas",
+        "no": 1259
+      }
+    ],
+    "Educational": [
+      {
+        "name": "Padhega Bharat",
+        "no": 1048
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Babulnaath Mumbai",
+        "no": 902
+      },
+      {
+        "name": "Dagdusheth Ganpati - Pune",
+        "no": 213
+      },
+      {
+        "name": "Iskon Girgaon",
+        "no": 900
+      },
+      {
+        "name": "Mahalaxmi Mumbai",
+        "no": 901
+      },
+      {
+        "name": "Sadhguru Television SD",
+        "no": 1782
+      },
+      {
+        "name": "Shri Hingulambika Devi Temple",
+        "no": 903
+      },
+      {
+        "name": "Shri Mangal Dev Grah Temple",
+        "no": 904
+      },
+      {
+        "name": "Shri Trimbakeshwar Devasthan",
+        "no": 1097
+      },
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      }
+    ],
+    "Others – Music": [
+      {
+        "name": "9x Jhakaas",
+        "no": 665
+      },
+      {
+        "name": "Sangeet Marathi",
+        "no": 1277
+      }
+    ]
+  },
+  "Gujarati": {
+    "Movies & Entertainment": [
+      {
+        "name": "Colors Gujarati",
+        "no": 1702
+      },
+      {
+        "name": "Colors Gujarati Channel.",
+        "no": 931
+      },
+      {
+        "name": "DD Girnar",
+        "no": 1739
+      }
+    ],
+    "News": [
+      {
+        "name": "ABP Asmita",
+        "no": 1728
+      },
+      {
+        "name": "BS9 News",
+        "no": 1810
+      },
+      {
+        "name": "Buletin India",
+        "no": 295
+      },
+      {
+        "name": "CNBC Bazaar (MNO)",
+        "no": 1724
+      },
+      {
+        "name": "GS TV",
+        "no": 804
+      },
+      {
+        "name": "Gujarat 1st 24*7",
+        "no": 1735
+      },
+      {
+        "name": "Headline News",
+        "no": 1540
+      },
+      {
+        "name": "India News Gujarat",
+        "no": 1732
+      },
+      {
+        "name": "Janadesh News",
+        "no": 1808
+      },
+      {
+        "name": "Mantavya News",
+        "no": 1734
+      },
+      {
+        "name": "News 18 Gujarati",
+        "no": 1726
+      },
+      {
+        "name": "Praveg TV",
+        "no": 1496
+      },
+      {
+        "name": "Sandesh News",
+        "no": 1722
+      },
+      {
+        "name": "TV9 Gujarati",
+        "no": 1720
+      },
+      {
+        "name": "VTV Gujarati",
+        "no": 1729
+      },
+      {
+        "name": "Zee 24 Kalak",
+        "no": 1731
+      }
+    ],
+    "Educational & Infotainment": [
+      {
+        "name": "Digishala",
+        "no": 1386
+      },
+      {
+        "name": "Shiksha TV",
+        "no": 812
+      },
+      {
+        "name": "Vande Gujarat 1",
+        "no": 815
+      },
+      {
+        "name": "Vande Gujarat 10",
+        "no": 824
+      },
+      {
+        "name": "Vande Gujarat 11",
+        "no": 1141
+      },
+      {
+        "name": "Vande Gujarat 12",
+        "no": 1135
+      },
+      {
+        "name": "Vande Gujarat 13",
+        "no": 827
+      },
+      {
+        "name": "Vande Gujarat 14",
+        "no": 828
+      },
+      {
+        "name": "Vande Gujarat 15",
+        "no": 829
+      },
+      {
+        "name": "Vande Gujarat 16",
+        "no": 1142
+      },
+      {
+        "name": "Vande Gujarat 2",
+        "no": 816
+      },
+      {
+        "name": "Vande Gujarat 3",
+        "no": 817
+      },
+      {
+        "name": "Vande Gujarat 4",
+        "no": 818
+      },
+      {
+        "name": "Vande Gujarat 5",
+        "no": 819
+      },
+      {
+        "name": "Vande Gujarat 6",
+        "no": 1146
+      },
+      {
+        "name": "Vande Gujarat 7",
+        "no": 821
+      },
+      {
+        "name": "Vande Gujarat 8",
+        "no": 1147
+      },
+      {
+        "name": "Vande Gujarat 9",
+        "no": 823
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Aadinath",
+        "no": 1086
+      },
+      {
+        "name": "Kartavya TV",
+        "no": 1189
+      },
+      {
+        "name": "Lakshya TV",
+        "no": 814
+      },
+      {
+        "name": "Sadhna Gold",
+        "no": 1708
+      },
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      },
+      {
+        "name": "Valam TV",
+        "no": 996
+      },
+      {
+        "name": "Valam TV",
+        "no": 1815
+      }
+    ]
+  },
+  "Punjabi": {
+    "Entertainment & Movies": [
+      {
+        "name": "DD Punjabi",
+        "no": 1935
+      },
+      {
+        "name": "Live Punjabi TV",
+        "no": 1705
+      },
+      {
+        "name": "Manoranjan Movies",
+        "no": 1351
+      },
+      {
+        "name": "Pitaara",
+        "no": 1911
+      },
+      {
+        "name": "PTC Punjabi",
+        "no": 1906
+      },
+      {
+        "name": "PTC Punjabi Gold",
+        "no": 1912
+      },
+      {
+        "name": "Punjab Plus",
+        "no": 1020
+      },
+      {
+        "name": "Punjabi Melodies",
+        "no": 541
+      },
+      {
+        "name": "Tabbar Hits",
+        "no": 1910
+      },
+      {
+        "name": "Zee Punjabi",
+        "no": 1903
+      }
+    ],
+    "News": [
+      {
+        "name": "ABP Sanjha",
+        "no": 1408
+      },
+      {
+        "name": "Chardikla Time TV",
+        "no": 1945
+      },
+      {
+        "name": "Daily Post PHH",
+        "no": 1495
+      },
+      {
+        "name": "India News Punjab",
+        "no": 1923
+      },
+      {
+        "name": "PTC News",
+        "no": 1921
+      },
+      {
+        "name": "WPN World Punjabi News",
+        "no": 1493
+      },
+      {
+        "name": "Zee Punjabi HP Harayana",
+        "no": 1920
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Amritwani",
+        "no": 361
+      },
+      {
+        "name": "Garv Punjabi Gurbani",
+        "no": 1488
+      },
+      {
+        "name": "PTC Simran",
+        "no": 1946
+      },
+      {
+        "name": "PTC VR",
+        "no": 1717
+      },
+      {
+        "name": "PTC VR",
+        "no": 1790
+      },
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      }
+    ],
+    "Others – Music": [
+      {
+        "name": "7X Music",
+        "no": 1022
+      },
+      {
+        "name": "9X Tashan",
+        "no": 711
+      },
+      {
+        "name": "Balle Balle TV",
+        "no": 266
+      },
+      {
+        "name": "Bol Hadippa",
+        "no": 300
+      },
+      {
+        "name": "Ghaint Punjab",
+        "no": 1378
+      },
+      {
+        "name": "mh1 (Music)",
+        "no": 1383
+      },
+      {
+        "name": "PTC Chak De",
+        "no": 1938
+      },
+      {
+        "name": "PTC DHOL TV",
+        "no": 1521
+      },
+      {
+        "name": "Punjabi Hits",
+        "no": 1505
+      },
+      {
+        "name": "Saga Music",
+        "no": 1215
+      },
+      {
+        "name": "Sikh Ratnavali",
+        "no": 1245
+      }
+    ]
+  },
+  "Bengali": {
+    "Entertainment & Movies": [
+      {
+        "name": "Aakash Aath",
+        "no": 1320
+      },
+      {
+        "name": "Colors Bangla Cinema",
+        "no": 1331
+      },
+      {
+        "name": "Colors Bengali HD",
+        "no": 1133
+      },
+      {
+        "name": "DD Bangla",
+        "no": 1379
+      },
+      {
+        "name": "Globe TV",
+        "no": 1517
+      },
+      {
+        "name": "Khushboo TV",
+        "no": 267
+      },
+      {
+        "name": "Maya Tv",
+        "no": 1769
+      },
+      {
+        "name": "Rupashi Bangla",
+        "no": 1773
+      },
+      {
+        "name": "Sony Aath",
+        "no": 1312
+      },
+      {
+        "name": "Star Jalsha",
+        "no": 1309
+      },
+      {
+        "name": "Sun Bangla",
+        "no": 1317
+      },
+      {
+        "name": "Zee Bangla",
+        "no": 1306
+      },
+      {
+        "name": "Zee Bangla Cinema",
+        "no": 1329
+      }
+    ],
+    "News": [
+      {
+        "name": "24 Ghanta TV",
+        "no": 1362
+      },
+      {
+        "name": "24Hrs TV",
+        "no": 1476
+      },
+      {
+        "name": "ABP Ananda",
+        "no": 1360
+      },
+      {
+        "name": "Bangla Jago",
+        "no": 1794
+      },
+      {
+        "name": "Calcutta News",
+        "no": 1370
+      },
+      {
+        "name": "Ctvn Akd Plus",
+        "no": 1369
+      },
+      {
+        "name": "Kolkata TV",
+        "no": 1363
+      },
+      {
+        "name": "News Time TV",
+        "no": 1184
+      },
+      {
+        "name": "News18 Bangla",
+        "no": 1365
+      },
+      {
+        "name": "NK TV Bangla",
+        "no": 1502
+      },
+      {
+        "name": "R Bangla",
+        "no": 1516
+      },
+      {
+        "name": "R Plus",
+        "no": 432
+      },
+      {
+        "name": "Samay Kolkata",
+        "no": 1768
+      },
+      {
+        "name": "Tribe TV",
+        "no": 1047
+      },
+      {
+        "name": "TV9 Bangla",
+        "no": 1366
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Rongeen TV",
+        "no": 892
+      }
+    ],
+    "Infotainment": [
+      {
+        "name": "Sristi TV",
+        "no": 1399
+      },
+      {
+        "name": "U Bangla",
+        "no": 1407
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      }
+    ],
+    "Others – Music": [
+      {
+        "name": "Dhoom Music Bangla",
+        "no": 1772
+      },
+      {
+        "name": "Sangeet Bangla",
+        "no": 1380
+      }
+    ]
+  },
+  "Assamese": {
+    "Movies & Entertainment": [
+      {
+        "name": "DD North East",
+        "no": 1988
+      },
+      {
+        "name": "Indradhanu",
+        "no": 1961
+      },
+      {
+        "name": "Jonack",
+        "no": 1223
+      },
+      {
+        "name": "Rang",
+        "no": 1952
+      },
+      {
+        "name": "Rengoni",
+        "no": 1953
+      },
+      {
+        "name": "Spondon",
+        "no": 1954
+      }
+    ],
+    "News": [
+      {
+        "name": "Assam Talk",
+        "no": 928
+      },
+      {
+        "name": "DY 365",
+        "no": 1970
+      },
+      {
+        "name": "NB News",
+        "no": 1980
+      },
+      {
+        "name": "ND 24",
+        "no": 1979
+      },
+      {
+        "name": "News18 Assam-North East",
+        "no": 1971
+      },
+      {
+        "name": "Newslive",
+        "no": 1973
+      },
+      {
+        "name": "NK TV 24x7",
+        "no": 1977
+      },
+      {
+        "name": "North East Live",
+        "no": 1976
+      },
+      {
+        "name": "Prag News",
+        "no": 1975
+      },
+      {
+        "name": "Pratham Khabar 24x7",
+        "no": 1981
+      },
+      {
+        "name": "Pratidin Time",
+        "no": 410
+      },
+      {
+        "name": "TIME8",
+        "no": 433
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      }
+    ],
+    "Others - Music": [
+      {
+        "name": "Ramdhenu",
+        "no": 1990
+      }
+    ]
+  },
+  "Odia": {
+    "Entertainment & Movies": [
+      {
+        "name": "Colors Oriya",
+        "no": 1752
+      },
+      {
+        "name": "DD Odia",
+        "no": 1785
+      },
+      {
+        "name": "Ekamra Cinema",
+        "no": 1432
+      },
+      {
+        "name": "Ekamra Nilach akra",
+        "no": 1427
+      },
+      {
+        "name": "Jatra Ekamra",
+        "no": 1434
+      },
+      {
+        "name": "Manjari TV",
+        "no": 888
+      },
+      {
+        "name": "Sidharth Gold",
+        "no": 1178
+      },
+      {
+        "name": "Sidharth TV",
+        "no": 1757
+      },
+      {
+        "name": "Zee Sarthak",
+        "no": 1756
+      }
+    ],
+    "News": [
+      {
+        "name": "Argus News",
+        "no": 1780
+      },
+      {
+        "name": "Badakhabar",
+        "no": 871
+      },
+      {
+        "name": "Kalinga TV",
+        "no": 1777
+      },
+      {
+        "name": "Kanak News",
+        "no": 1774
+      },
+      {
+        "name": "MBC",
+        "no": 866
+      },
+      {
+        "name": "Nandighosha",
+        "no": 1779
+      },
+      {
+        "name": "News18 Oriya",
+        "no": 1776
+      },
+      {
+        "name": "One Paschima",
+        "no": 497
+      },
+      {
+        "name": "Prameya News 7",
+        "no": 1778
+      }
+    ],
+    "Infotainment": [
+      {
+        "name": "Ekamra Bharat Odia",
+        "no": 1428
+      }
+    ],
+    "Devotional": [
+      {
+        "name": "Paramatma",
+        "no": 1429
+      },
+      {
+        "name": "Sidharth Bhakti",
+        "no": 1796
+      },
+      {
+        "name": "Tulja Bhavani",
+        "no": 217
+      }
+    ],
+    "Others – Music": [
+      {
+        "name": "Ekamra Musiq",
+        "no": 1204
+      }
+    ]
+  }
+}
